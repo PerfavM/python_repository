@@ -5,7 +5,7 @@ In the following folders are the files of the next libraries and frameworks:
 
 #Python:
 
-  django
-  Tkinter
-  Pygame
-  Pandas
+    Django
+    Pandas
+    Tkinter
+    Pygame
